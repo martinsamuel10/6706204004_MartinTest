@@ -1,1 +1,2 @@
-# 6706204004_MartinTest
+Nama  : Martin Samuel
+Nim   : 6706204004
